@@ -4,3 +4,14 @@ HOLY BIBLE Protestant version (true bible book list)
 + json format
 + synodal
 + russian language
+
+
+```php
+// Getting all chapter from the first bible book
+foreach ($bibleArray['Books'][$this->getBook()]['Chapters'] as $chapter) {
+    echo '<p><b>Глава ' . $chapter['ChapterId'] . '</b></p>';
+    foreach ($chapter['Verses'] as $verses) {
+        echo '<p>' . $verses['VerseId'] . '. ' .  $verses['Text'] . '</p>';
+    }
+}
+```
