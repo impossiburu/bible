@@ -1,3 +1,6 @@
 # bible
 HOLY BIBLE Protestant version (true bible book list)
-Bible in JSON
+
++ json format
++ synodal
++ russian language
