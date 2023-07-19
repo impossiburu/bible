@@ -5,7 +5,7 @@ HOLY BIBLE Protestant version (true bible book list)
 + synodal
 + russian language
 
-
+Example to use:
 ```php
 // Getting all chapter from the first bible book
 foreach ($bibleArray['Books'][$this->getBook()]['Chapters'] as $chapter) {
