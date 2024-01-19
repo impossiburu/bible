@@ -1,5 +1,5 @@
 # bible
-HOLY BIBLE Protestant version (true bible book list)
+HOLY BIBLE Protestant booklist sort version in json
 
 + json format
 + synodal
