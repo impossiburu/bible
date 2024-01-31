@@ -1,1 +1,1 @@
-cndsole.log('MyRepository');sd
+cndsole.log('MyRepository');
