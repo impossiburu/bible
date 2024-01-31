@@ -1,1 +1,1 @@
-console.log('MyRepository');
+cndsole.log('MyRepository');
